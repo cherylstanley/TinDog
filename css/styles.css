@@ -228,6 +228,7 @@ body{
 }
 
 .social-icon {
+  /*New commit*/
   margin: 20px 10px;
   /* (Angela's version) 20px top/bottom 10pxleft/right */
   /* padding: 1% 0.5% 1%; /*originally 4% 2% 1% changed to   padding: 6% 0.5% 1%;*/
